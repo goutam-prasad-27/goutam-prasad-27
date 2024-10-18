@@ -1,7 +1,7 @@
 ### Hi there, I'm Goutam Prasad! 👋
 
 I'm a passionate **Frontend Developer** dedicated to crafting interactive and visually appealing user experiences.
-My expertise lies in modern web technologies and frameworks, including **HTML**, **CSS**,**JavaScript**,**React**, **Tailwind CSS**, and more.
+My expertise lies in modern web technologies and frameworks, including **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS**, and more.
 
 - 🌱 Currently learning: Advanced 3D modeling with **react-three-fiber** and **react-three-drei**.
 - 💻 Tech stack: **Vite**, **React**, **Tailwind CSS**, **npm**, **Three.js**, **framer motion**, **Netlify**.
